@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Properties",
+      "appliesTo": "manager-drink-main/Properties/",
+      "type": "launch"
+    }
+  ]
+}
